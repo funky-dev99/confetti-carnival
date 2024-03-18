@@ -2,8 +2,6 @@
 
 Welcome to the vibrant world of **Confetti Carnival**! This Flutter-based application is your gateway to celebrating life's moments with a burst of color and joy. Whether you're commemorating a milestone or just in need of some cheer, Confetti Carnival turns any moment into a festive event.
 
-![Confetti Carnival Screenshot](link-to-screenshot.png)
-
 ## Features 🎈
 
 **Confetti Carnival** is packed with delightful features:
@@ -18,6 +16,37 @@ Welcome to the vibrant world of **Confetti Carnival**! This Flutter-based applic
 
 To get a local copy up and running, follow these simple steps:
 
-1. Clone the repo
+ Clone the repo
    ```sh
    git clone https://github.com/yourusername/confetti-carnival.git
+
+## Built With 🛠️
+
+- **Flutter** - [Flutter](https://flutter.dev) 3.10.5 for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Confetti** - For creating lively and customizable confetti animations that bring joy to any application using the [Confetti package](https://pub.dev/packages/confetti).
+
+## Contributing 🤝
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+See `CONTRIBUTING.md` for more information on how to get started with your contributions.
+
+## License 📄
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Acknowledgements 💖
+
+- Hat tip to anyone whose code was used.
+- Inspiration.
+- The Flutter and open-source community for continuous support and inspiration.
+
