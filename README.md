@@ -12,13 +12,6 @@ Welcome to the vibrant world of **Confetti Carnival**! This Flutter-based applic
 - **Directional Explosions**: Send your confetti flying in any direction. With comprehensive control, how and where you celebrate is entirely up to you.
 - **Artistic Flair**: Utilize Flutter's `Path` class to draw and animate your very own confetti shapes, adding a personal touch to your festivities.
 
-## Getting Started 🚀
-
-To get a local copy up and running, follow these simple steps:
-
- Clone the repo
-   ```sh
-   git clone https://github.com/yourusername/confetti-carnival.git
 
 ## Built With 🛠️
 
